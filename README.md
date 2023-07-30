@@ -7,7 +7,7 @@ With the rapid advancement of Natural Language Processing (NLP) technology, the 
 
 ## Framework
 
-1. **Introduction**
+1. [**Introduction**](#introduction)
     - Background
     - Purpose of the study
     - Research questions
@@ -26,3 +26,7 @@ With the rapid advancement of Natural Language Processing (NLP) technology, the 
 6. **Conclusion**
     - Summary of the findings
     - Suggestions for future research
+
+## Introduction
+
+Your introduction text goes here...
