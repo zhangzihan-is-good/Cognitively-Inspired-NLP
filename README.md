@@ -7,7 +7,7 @@ With the rapid advancement of Natural Language Processing (NLP) technology, the 
 
 ## Framework
 
-1. [**Cognitive Science**](#Cognitive Science)
+1. [**Cognitive Science**](#cognitive-science)
     - Background
     - Purpose of the study
     - Research questions
