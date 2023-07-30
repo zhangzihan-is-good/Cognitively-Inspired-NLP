@@ -7,7 +7,7 @@ With the rapid advancement of Natural Language Processing (NLP) technology, the 
 
 ## Framework
 
-1. [**Introduction**](#introduction)
+1. [**Cognitive Science**](#Cognitive Science)
     - Background
     - Purpose of the study
     - Research questions
@@ -27,6 +27,15 @@ With the rapid advancement of Natural Language Processing (NLP) technology, the 
     - Summary of the findings
     - Suggestions for future research
 
-## Introduction
+## Cognitive Science
 
-Your introduction text goes here...
+Cognitive Science endeavors to demystify the processes and laws underpinning the relationship between the mind and neural activities. It aims to illuminate phenomena such as learning, memory, thought, and understanding, with an overarching goal of comprehending the intricate operations of the human mind. Its complexity and depth have often led Cognitive Science to be characterized as 'God's last secret'. Concretely, Cognitive Science encompasses six primary research domains.
+
+| Intersection with Cognitive Science | Sub-disciplines in Cognitive Science | Research Content | Research Characteristics |
+|-------------------------------------|--------------------------------------|------------------|-------------------------|
+| Philosophy                          | Philosophy of Mind                   |                  |                         |
+| Psychology                          | Cognitive Psychology                 |                  |                         |
+| Linguistics                         | Cognitive Linguistics                |                  |                         |
+| Anthropology                        | Cognitive Anthropology               |                  |                         |
+| Computer Science                    | Artificial Intelligence              |                  |                         |
+| Neuroscience                        | Cognitive Neuroscience               |                  |                         |
