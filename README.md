@@ -1,6 +1,6 @@
 # Cognitively-Inspired-NLP
-![Custom Badge](https://img.shields.io/badge/Contribution-Welcome-blue)  
-![Status](https://img.shields.io/badge/Status-Submitting-yellow)  
+![Custom Badge](https://img.shields.io/badge/Contribution-Welcome-blue)
+![Status](https://img.shields.io/badge/Status-Submitting-yellow)
 ![Reading Time](https://img.shields.io/badge/Reading%20Time-45%20minutes-blue)  
 A comprehensive list of papers about "**Cognitively Inspired NLP: a Survey and a Vision**"
 ## Abstract
