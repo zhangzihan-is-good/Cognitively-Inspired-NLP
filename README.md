@@ -8,9 +8,7 @@ With the rapid advancement of Natural Language Processing (NLP) technology, the 
 ## Framework
 
 1. [**Cognitive Science**](#cognitive-science)
-    - Background
-    - Purpose of the study
-    - Research questions
+
 2. **Literature Review**
     - Previous studies
     - Gap in the literature
@@ -33,9 +31,10 @@ Cognitive Science endeavors to demystify the processes and laws underpinning the
 
 | Intersection with Cognitive Science | Sub-disciplines in Cognitive Science | Research Content | Research Characteristics |
 |-------------------------------------|--------------------------------------|------------------|-------------------------|
-| Philosophy                          | Philosophy of Mind                   |                  |                         |
-| Psychology                          | Cognitive Psychology                 |                  |                         |
-| Linguistics                         | Cognitive Linguistics                |                  |                         |
-| Anthropology                        | Cognitive Anthropology               |                  |                         |
-| Computer Science                    | Artificial Intelligence              |                  |                         |
-| Neuroscience                        | Cognitive Neuroscience               |                  |                         |
+| Philosophy                          | Philosophy of Mind                   | Investigation of consciousness, identity, and the nature of mind. | Theoretical, Argumentative |
+| Psychology                          | Cognitive Psychology                 | Study of mental processes including attention, memory, perception, and language. | Experimental, Statistical |
+| Linguistics                         | Cognitive Linguistics                | Analysis of language and its cognitive function in understanding the world. | Analytical, Descriptive |
+| Anthropology                        | Cognitive Anthropology               | Examination of how different cultures shape and influence cognitive processes. | Ethnographic, Comparative |
+| Computer Science                    | Artificial Intelligence              | Development of algorithms and models that mimic cognitive functions. | Computational, Algorithmic |
+| Neuroscience                        | Cognitive Neuroscience               | Exploration of the neural mechanisms underlying cognitive processes. | Experimental, Biological |
+
