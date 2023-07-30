@@ -9,8 +9,6 @@ With the rapid advancement of Natural Language Processing (NLP) technology, the 
 
 ## Framework
 
-## Framework
-
 1. [**Cognitive Science**](#cognitive-science)
 
 2. [**NLP Research Related to Cognitive Neuroscience**](#nlp-research-related-to-cognitive-neuroscience)
